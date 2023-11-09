@@ -5,14 +5,15 @@ return {
     opts = function(_, opts)
       -- customize the dashboard header
       opts.section.header.val = {
-        "Become",
-        "a",
-        "great",
-        "indie",
-        "developer",
-        "and",
-        "trader",
-        "You must be rich",
+        --  "Become",
+        --  "a",
+        -- "great",
+        -- "indie",
+        -- "developer",
+        -- "and",
+        -- "trader",
+        -- "You must be rich",
+        "Just be rich!",
       }
       return opts
     end,

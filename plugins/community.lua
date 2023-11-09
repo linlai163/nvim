@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.tailwindcss" },
-  { import = "astrocommunity.pack.typescript-all-in-one" }
+  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.motion.flash-nvim" },
 }
 -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
