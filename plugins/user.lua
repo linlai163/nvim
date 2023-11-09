@@ -9,4 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "hardhackerlabs/theme-vim",
+    config = function() vim.cmd.colorscheme "hardhacker" end,
+  },
 }
